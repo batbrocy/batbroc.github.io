@@ -1,0 +1,220 @@
+#title{
+    font-family: sans-serif;    
+    color: rgb(2, 147, 0)
+}
+#site{
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    margin: auto;
+}
+#textinput{
+    font-family: sans-serif;
+    color: black;
+    font-size: 130%;
+    width: 374px;
+    height: 25px;
+}
+#link{
+    display: flex;
+    align-items: center;
+    background-color: rgb(172, 255, 255);
+    align-content: center;
+}
+#button{
+    font-family: sans-serif;
+    color: black;
+    display: flex;
+    
+}
+body{
+    background-color: rgb(116, 202, 255);
+}
+#text2{
+    font-family: sans-serif;
+}
+
+/* House Text */
+#NameHouse1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse7{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse8{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse9{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#NameHouse10{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* House Cost */
+#CostHouse1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse7{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse8{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse9{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#CostHouse10{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* House Size */
+#house2{
+    width: 500px;
+}
+#house3{
+    width: 300px;
+}
+#house5{
+    width: 300px;
+}
+#house6{
+    width: 300px;
+}
+#house7{
+    width: 300px;
+}
+#house8{
+    width: 300px;
+}
+#house9{
+    width: 300px;
+}
+#house10{
+    width: 300px;
+}
+
+/* Product Houses */
+#ProductHouse1{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse2{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse3{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse4{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse5{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse6{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse7{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse8{
+    font-family: sans-serif;
+    color: black;
+}
+#ProductHouse9{
+    font-family: sans-serif;
+    color: black;
+}#ProductHouse10{
+    font-family: sans-serif;
+    color: black;
+}
+
+/* Product Houses Div */
+#DivProductHouse1{
+    background-color: rgb(150, 150, 0);
+    display: flex;
+}
+#DivProductHouse2{
+    background-color: yellow;
+    display: flex;
+}
+#DivProductHouse3{
+    background-color: rgb(150, 150, 0);
+    display: flex;
+}
+#DivProductHouse4{
+    background-color: yellow;
+    display: flex;
+}
+#DivProductHouse5{
+    background-color: rgb(150, 150, 0);
+    display: flex;
+}
+#DivProductHouse6{
+    background-color: yellow;
+    display: flex;
+}
+#DivProductHouse7{
+    background-color: rgb(150, 150, 0);
+    display: flex;
+}
+#DivProductHouse8{
+    background-color: yellow;
+    display: flex;
+}
+#DivProductHouse9{
+    background-color: rgb(150, 150, 0);
+    display: flex;
+}
+#DivProductHouse10{
+    background-color: yellow;
+    display: flex;
+}
+
+/* Link Bought */
+#LinkBought{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* House Bought */
+#textbought{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#BackToMenuLink{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
